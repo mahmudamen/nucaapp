@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nucaapp/Dropbox/nucaappx/nucaapp.csproj": {}
+  },
+  "projects": {
+    "/Users/nucaapp/Dropbox/nucaappx/nucaapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nucaapp/Dropbox/nucaappx/nucaapp.csproj",
+        "projectName": "nucaapp",
+        "projectPath": "/Users/nucaapp/Dropbox/nucaappx/nucaapp.csproj",
+        "packagesPath": "/Users/nucaapp/.nuget/packages/",
+        "outputPath": "/Users/nucaapp/Dropbox/nucaappx/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/nucaapp/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

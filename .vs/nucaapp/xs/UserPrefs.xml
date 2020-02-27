@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B7BCE41C-4356-4D51-9322-2376B2E28502}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="nucaapp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.nucaapp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.9e767e5d73e595122ee566efbc3254182f321277" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/nucaapp/Desktop/nucaappx</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

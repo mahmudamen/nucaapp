@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nucaapp", "nucaapp.csproj", "{B7BCE41C-4356-4D51-9322-2376B2E28502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Release|iPhone.Build.0 = Release|iPhone
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Release|iPhone.Deploy.0 = Release|iPhone
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B7BCE41C-4356-4D51-9322-2376B2E28502}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C3A2B9-A482-420E-AC53-DFE55F058A0F}
+	EndGlobalSection
+EndGlobal
